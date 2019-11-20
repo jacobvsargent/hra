@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">House Rules</string>
+    <string name="about_desc">House Rules is a project created by Nick Deas and Jacob Sargent.
+    Originally, we designed the project using a Django back-end and envisioned it as a web service to be
+    used from mobile browsers. However, since I was taking this class, I decided it would be a good
+    use of my time to make an app for the service. Overall, I still think the web-service is the better
+    route. Visit houserules.io for more information!</string>
+</resources>
